@@ -1,0 +1,14 @@
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\bin\Debug\net8.0\Assignment-2_chaitanya_varma.exe
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\bin\Debug\net8.0\Assignment-2_chaitanya_varma.deps.json
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\bin\Debug\net8.0\Assignment-2_chaitanya_varma.runtimeconfig.json
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\bin\Debug\net8.0\Assignment-2_chaitanya_varma.dll
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\bin\Debug\net8.0\Assignment-2_chaitanya_varma.pdb
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\Assignment-2_chaitanya_varma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\Assignment-2_chaitanya_varma.AssemblyInfoInputs.cache
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\Assignment-2_chaitanya_varma.AssemblyInfo.cs
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\Assignment-2_chaitanya_varma.csproj.CoreCompileInputs.cache
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\Assignment-2_chaitanya_varma.dll
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\refint\Assignment-2_chaitanya_varma.dll
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\Assignment-2_chaitanya_varma.pdb
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\Assignment-2_chaitanya_varma.genruntimeconfig.cache
+C:\Users\chait\source\repos\Assignment-2_chaitanya_varma\Assignment-2_chaitanya_varma\obj\Debug\net8.0\ref\Assignment-2_chaitanya_varma.dll
